@@ -1,5 +1,5 @@
 import { Deck } from "../../Types/Deck"
-import { countCardAffinities, countCardTypes } from "../../Utils";
+import { countCardAffinities } from "../../Utils";
 import { useStyles } from './styles';
 
 export type DeckListingSummaryItemProps = {
